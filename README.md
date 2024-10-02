@@ -1,9 +1,13 @@
 ## Hi there 👋
 
-👋 Hi, I'm Varun Tiwari, a versatile Data Analyst and Developer with a strong foundation in IT and Data Analytics.
-🎓 Education: Bachelor of Technology (Information Technology) from Manipal University Jaipur (India) and Masters in Computing (Data Analytics) from Dublin City University (Ireland).
-💼 Experience: Former Salesforce Administrator and Platform Developer at Tata Consultancy Services Ltd (2019-2021), transitioned into a Data Analyst and SQL/Tableau Developer role at the same organization (2021-2023).
-🔍 Interests: Passionate about AI/ML and Data Analytics, with hands-on experience in cutting-edge projects during my postgraduate studies.
+👋 Hi, I'm Varun Tiwari, a versatile Data Analyst and Developer with a strong foundation in IT and Data Analytics.  
+
+🎓 Education: Bachelor of Technology (Information Technology) from Manipal University Jaipur (India) and Masters in Computing (Data Analytics) from Dublin City University (Ireland).  
+
+💼 Experience: Former Salesforce Administrator and Platform Developer at Tata Consultancy Services Ltd (2019-2021), transitioned into a Data Analyst and SQL/Tableau Developer role at the same organization (2021-2023).  
+
+🔍 Interests: Passionate about AI/ML and Data Analytics, with hands-on experience in cutting-edge projects during my postgraduate studies.    
+
 🚀 Let's connect and collaborate on innovative tech solutions!
 
 <!--
